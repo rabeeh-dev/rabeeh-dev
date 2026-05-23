@@ -1,19 +1,20 @@
-# Hey, I'm Rabeeh 👋
+# Hey there, I'm Rabeeh 👋
 
-## 🚀 About Me
+I'm a MERN Stack Developer intern at **Brototype** who loves building products that solve real-world problems and make things easier for people. I enjoy learning new technologies, improving my skills every day, and creating meaningful digital experiences.
 
-* MERN Stack Developer Intern at **Brototype**
-* Love building products that solve real-world problems
-* Currently learning advanced MERN & DSA
-* JavaScript is my strongest skill
-
-## 🛠 Tech Stack
+## 🛠 Tools & Tech
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,vscode,git,github,postman,figma" />
 </p>
 
-## 📫 Connect With Me
+## 🚀 Currently
+
+* Learning advanced MERN Stack concepts
+* Improving problem-solving with DSA
+* Building real-world projects
+
+## 📫 Reach Me
 
 * 📧 [buildwithrabeeh@gmail.com](mailto:buildwithrabeeh@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/rabeeh-rbh/)
