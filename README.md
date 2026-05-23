@@ -1,7 +1,5 @@
 # Hey, I'm Rabeeh 👋
 
-# Hey, I'm Rabeeh 👋
-
 ## 🚀 About Me
 
 * MERN Stack Developer Intern at **Brototype**
