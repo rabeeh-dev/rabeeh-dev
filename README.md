@@ -1,56 +1,31 @@
+# Hey, I'm Rabeeh 👋
 
-# Hi, I'm Rabeeh 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=MERN+Stack+Developer;Building+Real+World+Projects;Learning+DSA+%26+Advanced+Development" alt="Typing SVG" />
+</p>
 
-## About Me
+## 🚀 About Me
 
-I'm currently doing an internship in **Full Stack Development (MERN Stack)** at **Brototype**.
+* MERN Stack Developer Intern at **Brototype**
+* Love building products that solve real-world problems
+* Currently learning advanced MERN & DSA
+* JavaScript is my strongest skill
 
-I love building products that solve real-world problems and make people's lives easier. I enjoy creating new things with technology, helping people improve their businesses or workflows, and working with teams through good communication and leadership.
+## 🛠 Tech Stack
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,vscode,git,github,postman,figma" />
+</p>
 
-## Currently Working On
+## 📊 GitHub Stats
 
-* Improving my MERN Stack development skills
-* Learning advanced concepts in JavaScript and DSA
-* Building projects that solve practical problems
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rabeeh-rbh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabeeh-rbh&theme=tokyonight&hide_border=true" />
+</p>
 
----
+## 📫 Connect With Me
 
-## Tech Stack
-
-### Languages & Technologies
-
-* JavaScript
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* MERN Stack
-
-### Tools I Use
-
-* VS Code
-* Git & GitHub
-* Postman
-* Figma
-* AI tools for improving productivity and development workflow
-
----
-
-## Projects
-
-* **Hoof** – E-commerce website
-* Built multiple projects focused on solving real-world problems and improving user experience
-
----
-
-## Connect With Me
-
-* 📧 Email: [buildwithrabeeh@gmail.com](mailto:buildwithrabeeh@gmail.com)
-* 💼 LinkedIn: [Rabeeh Rbh](https://www.linkedin.com/in/rabeeh-rbh/)
-* 📸 Instagram: [@rrabehhh](https://www.instagram.com/rrabehhh)
-
----
-
-> "Building things that make life easier and create real impact."
+* 📧 [buildwithrabeeh@gmail.com](mailto:buildwithrabeeh@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/rabeeh-rbh/)
+* 📸 [Instagram](https://www.instagram.com/rrabehhh)
