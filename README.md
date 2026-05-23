@@ -17,13 +17,6 @@
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,vscode,git,github,postman,figma" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rabeeh-rbh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rabeeh-rbh&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📫 Connect With Me
 
 * 📧 [buildwithrabeeh@gmail.com](mailto:buildwithrabeeh@gmail.com)
