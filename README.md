@@ -18,17 +18,11 @@
   </p>
 
   <p>
-    <a href="https://rabeeh.online">
-      <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=flat-square&logo=vercel&logoColor=58A6FF" alt="Portfolio"/>
-    </a>
     <a href="https://www.linkedin.com/in/rabeeh-rbh/">
       <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
     </a>
     <a href="mailto:rabeeh.swe@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email"/>
-    </a>
-    <a href="https://github.com/Rabeeh-dev">
-      <img src="https://img.shields.io/badge/GITHUB-0D1117?style=flat-square&logo=github&logoColor=58A6FF" alt="GitHub"/>
     </a>
   </p>
 
