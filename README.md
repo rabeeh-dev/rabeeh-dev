@@ -92,23 +92,14 @@ My approach is simple: understand the problem, design the system, write maintain
   </tr>
 </table>
 
-### `04` — Selected Work
 
-<p align="center">
-  <a href="https://rabeeh.online">
-    <img src="https://img.shields.io/badge/Portfolio-rabeeh.online-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
-  </a>
-</p>
-
-Explore my portfolio and GitHub repositories to see what I'm building, the problems I'm solving, and what I'm learning along the way.
-
-### `05` — Beyond the Code
+### `04` — Beyond the Code
 
 I believe good engineers stay curious. I'm interested in understanding how things work, questioning existing approaches, and turning ideas into practical solutions.
 
 Currently focused on getting better at **software architecture, AI engineering, and building production-quality applications.**
 
-### `06` — Let's Connect
+### `05` — Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rabeeh-rbh/">
