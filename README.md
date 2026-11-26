@@ -7,8 +7,6 @@
 Hi, I'm glad you stopped by. I don't just learn things, I build with them,<br>
 mostly in TypeScript and JavaScript, from the interface to the server and the cloud.
 
-<br>
-
 ---
 
 <br>
