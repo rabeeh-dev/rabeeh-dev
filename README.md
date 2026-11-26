@@ -66,10 +66,10 @@ mostly in TypeScript and JavaScript, from the interface to the server and the cl
 <!-- Replace each project name, description and REPO-NAME below -->
 
 **[ClinIQ](https://github.com/rabeeh-dev/ClinIQ)**<br>
-ClinIQ is an intelligent, multi-agent AI receptionist system designed for medical clinics.
+ClinIQ is an intelligent, multi-agent AI receptionist system designed for medical clinics. Built as a monorepo, ClinIQ combines a React + Vite frontend interface, an Express + LangGraph AI agent backend, and a dedicated Model Context Protocol (MCP) database server connected to MongoDB and Nodemailer.
 
 **[HOOF - Ecommerce](https://github.com/rabeeh-dev/HOOF)**<br>
-HOOF is a modern full-stack ecommerce platform built for footwear lovers.
+A modern full-stack footwear ecommerce platform with authentication, OTP verification, wallet system, payments, admin dashboard, and a complete shopping experience built using Node.js, Express, MongoDB, and EJS.
 
 **[Kyro - Backend Ecommerce](https://github.com/rabeeh-dev/kyro-ecommerce-api)**<br>
 The platform implements a multi-protocol hybrid architecture combining an API Gateway, REST APIs, high-performance gRPC, Redis Caching, RabbitMQ event choreography (Saga Pattern), Circuit Breakers, and Apache Kafka event streaming, all containerized and orchestrated via Docker Compose.
